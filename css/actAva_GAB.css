@@ -1,10 +1,10 @@
-.botonsJPC {
+.botonsGAB {
    display: flex;
    justify-content: space-between;
 }
-#enunciat_1{
-  display: none;
+.elementVisibleGAB{
+  display: flex;
 }
-#enunciat_2{
+.elementOcultGAB{
   display: none;
 }
