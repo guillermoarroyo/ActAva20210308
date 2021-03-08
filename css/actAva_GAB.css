@@ -1,5 +1,6 @@
 .botonsJPC {
    display: flex;
+   justify-content: space-between;
 }
 #enunciat_1{
   display: none;
