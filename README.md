@@ -31,7 +31,7 @@ A continuació cal que obriu una nova finestra de terminal.
 Un cop oberta la nova finestra de terminal, cal que escribiu la següent comanda de git:
 
 ``` git
-git clone https://github.com/eapdagine/????.git  ActAva20210308
+git clone 	https://github.com/joanpardogine/ActAva20210308.git  ActAva20210308
 ```
 
 
@@ -42,7 +42,7 @@ D'aquesta manera es crearà una carpeta anomenada ***```ActAva20210308```***, a 
 
 ![imatge_0004.png](imatges/imatge_0004.png)
 
-Ara cal que creeu un nou repositori al vostre github amb el nom ```examen20212008```
+Ara cal que creeu un nou repositori al vostre github amb el nom ```ActAva20210308```
 
 ![imatge_0005.png](imatges/imatge_0005.png)
 
